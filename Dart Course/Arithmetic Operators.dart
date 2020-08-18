@@ -34,4 +34,9 @@ main(){
   var area2 = 6 * pow(a,2);
   print(area2);
 
+  var num3 = 6;
+  num3++;
+  num3--;
+  --num3;
+  print(num3);
 }
