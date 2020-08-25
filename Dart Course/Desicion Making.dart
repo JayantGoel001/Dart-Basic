@@ -5,4 +5,7 @@ main(){
   if(name != null && name2!=null){
     print("We are in Hell.");
   }
+  else{
+    print("Great");
+  }
 }
